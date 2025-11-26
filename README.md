@@ -1,15 +1,16 @@
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**HARI RAMA SHANKAR BATTULA,ME23B100**
-**UTKARSH BHEEMANABOYNA,ME23B088**
-**SHWETHA V,ME23B073**
-**AKASH P B,ME23B125**
-**UDAYAGIRI GOWTHAM,ME23B085**
-**GUGULOTH SAI POOJITH,ME23B106**
-**ANURAG PANT,ME23B098** 
+**HARI RAMA SHANKAR BATTULA, ME23B100** <br>
+**UTKARSH BHEEMANABOYNA, ME23B088** <br>
+**SHWETHA V, ME23B073** <br>
+**AKASH P B, ME23B125** <br>
+**UDAYAGIRI GOWTHAM, ME23B085** <br>
+**GUGULOTH SAI POOJITH, ME23B106** <br>
+**ANURAG PANT, ME23B098** <br>
 
 B.Tech Students, Mechanical Engineering  
 Course: Manufacturing Technology
+
 
 # Shuffle-BiLSTM Boring Bar Vibration Monitoring 🔧🤖
 
@@ -243,7 +244,7 @@ Optimizer: SGD (momentum=0.9, LR=0.1, weight_decay=0.0001)
 Early Stopping: Patience=15 epochs
 Training Time: ~3 minutes on CPU
 
-Key Milestones:
+**Key Milestones:**
 
 Epoch 1: 28.89% validation accuracy
 
@@ -277,18 +278,20 @@ Perfect Classification (45/45 test samples):
 | **Training Samples** | 192 | 180 |
 | **Data Type** | Real experiments | Synthetic signals |
 
-**Note:** Higher accuracy on synthetic data is expected due to:
+**Conclusion:** Higher accuracy on synthetic data is expected due to:
 - Consistent signal patterns (no real-world variability)
 - Controlled noise characteristics
 - Perfect labeling (no human error)
 - Smaller dataset easier to memorize
 
 
-### References
+## References
 
-**Based on Research Paper:**  
-Liu, Q., Li, D., Ma, J., Bai, Z., & Liu, J. (2023). *Research on Intelligent Monitoring of Boring Bar Vibration State Based on Shuffle-BiLSTM*. Sensors, 23(13), 6123. [https://doi.org/10.3390/s23136123](https://doi.org/10.3390/s23136123)
+Based on Research Paper:  
+Liu, Q., Li, D., Ma, J., Bai, Z., & Liu, J. (2023). Research on Intelligent Monitoring of Boring Bar Vibration State Based on Shuffle-BiLSTM. Sensors, 23(13), 6123. https://doi.org/10.3390/s23136123
+
 ---
+
 
 
 
